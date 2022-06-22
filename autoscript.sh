@@ -24,18 +24,11 @@ usermod -aG wheel,video,audio,users,storage
 pacman -S neovim git alacritty firefox man qtile xorg-init xorg-server xf86-video-vmware
 xf86-video-fbdev xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq dbus discord reflector cmatrix nemo ranger arandr --noconfirm
 
-
 run_as_user mkdir Pictures
 run_as_user mkdir Videos
 run_as_user mkdir Music
 run_as_user mkdir Downloads
 run_as_user mkdir .fonts
-
-# TODO move to this folder
-
-run_as_user git clone https://github.com/vitek-borovsky/dotfiles.git
-run_as_user cd dotfiles
-
 
 run_as_user cp -f .rc ~/.rc
 run_as_user cp -f .profile ~/.profile
