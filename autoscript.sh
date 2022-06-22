@@ -30,6 +30,7 @@ run_as_user "mkdir ~/Downloads"
 run_as_user "mkdir ~/.fonts"
 
 run_as_user "cp -f .rc ~/.rc"
+run_as_user "cp -f .zshrc ~/.zshrc"
 run_as_user "cp -f .profile ~/.profile"
 run_as_user "cp -f .p10k.zsh ~/.p10k.zsh"
 run_as_user "cp -f .xinitrc ~/.xinitrc"
