@@ -36,8 +36,8 @@ run_as_user "cp -f .xinitrc ~/.xinitrc"
 run_as_user "cp -f wallpaper.jpg ~/Pictures/wallpaper.jpg"
 run_as_user "cp -f wall.jpg ~/Pictures/wall.jpg"
 
-run_as_user "cp -rf nerd-fonts/* ~/.fonts"
-run_as_user "cp -rf powerline-fonts/* ~/.fonts"
+run_as_user "cp -rf nerd-fonts/* ~/.fonts/"
+run_as_user "cp -rf powerline-fonts/* ~/.fonts/"
 run_as_user "cp -rf .config ~/.config"
 
 run_as_user "rm -rf temp-dotfiles"
