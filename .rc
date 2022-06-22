@@ -1,0 +1,10 @@
+# ~/.rc
+
+
+alias nv="nvim"
+alias spac="sudo pacman"
+
+alias mkd="mkdir -p"
+
+# to inclue pip command in .local/bin/
+export PATH=/home/$USER/.local/bin:$PATH
