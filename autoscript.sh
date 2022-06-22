@@ -36,6 +36,7 @@ run_as_user "cp -f .zshrc ~/.zshrc"
 run_as_user "cp -f .profile ~/.profile"
 run_as_user "cp -f .p10k.zsh ~/.p10k.zsh"
 run_as_user "cp -f .xinitrc ~/.xinitrc"
+run_as_user "cp -rf .oh-my-zsh ~/.oh-my-zsh"
 run_as_user "cp -f wallpaper.jpg ~/Pictures/wallpaper.jpg"
 run_as_user "cp -f wall.jpg ~/Pictures/wall.jpg"
 
