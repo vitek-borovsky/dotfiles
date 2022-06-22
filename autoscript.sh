@@ -33,6 +33,10 @@ run_as_user mkdir .fonts
 
 # TODO move to this folder
 
+run_as_user git clone https://github.com/vitek-borovsky/dotfiles.git
+run_as_user cd dotfiles
+
+
 run_as_user cp -f .rc ~/.rc
 run_as_user cp -f .profile ~/.profile
 run_as_user cp -f .p10k.zsh ~/.p10k.zsh
@@ -44,3 +48,4 @@ run_as_user cp -rf nerd-fonts/* ~/.fonts
 run_as_user cp -rf powerline-fonts/* ~/.fonts
 run_as_user cp -rf .config ~/.config
 
+run_as_user rm -rf temp-dotfiles
