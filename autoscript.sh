@@ -40,4 +40,4 @@ run_as_user "cp -rf nerd-fonts/* ~/.fonts/"
 run_as_user "cp -rf powerline-fonts/* ~/.fonts/"
 run_as_user "cp -rf .config ~/.config"
 
-run_as_user "rm -rf temp-dotfiles"
+run_as_user "rm -rf ."
