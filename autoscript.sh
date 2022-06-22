@@ -21,7 +21,7 @@ fi
 
 usermod -aG wheel,video,audio,users,storage $target_user
 
-pacman -S neovim git alacritty firefox man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq dbus discord reflector cmatrix nemo ranger arandr --noconfirm
+pacman -S neovim git alacritty firefox man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq dbus discord reflector cmatrix nemo ranger arandr python-pip --noconfirm
 
 run_as_user "mkdir ~/Pictures"
 run_as_user "mkdir ~/Videos"
