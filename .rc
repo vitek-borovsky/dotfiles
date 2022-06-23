@@ -8,3 +8,6 @@ alias mkd="mkdir -p"
 
 # to inclue pip command in .local/bin/
 export PATH=/home/$USER/.local/bin:$PATH
+
+LC_ALL="C"
+export LC_ALL
