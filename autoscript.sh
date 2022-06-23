@@ -51,8 +51,8 @@ run_as_user "cp -rf .config ~/.config"
 run_as_user "rm -rf ../dotfiles"
 
 # vimplug
-sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
-       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+run_as_user "sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'"
 
 # yay
 cd /opt
