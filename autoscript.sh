@@ -22,7 +22,7 @@ fi
 usermod -aG wheel,video,audio,users,storage $target_user
 
 pacman -S \
-    neovim git alacritty firefox rofi man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev \
+    neovim git alacritty rofi man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev \
     xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq \
     dbus discord reflector cmatrix nemo ranger arandr python-pip cmatrix \
     --noconfirm
