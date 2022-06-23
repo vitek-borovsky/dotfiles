@@ -21,7 +21,11 @@ fi
 
 usermod -aG wheel,video,audio,users,storage $target_user
 
-pacman -S neovim git alacritty firefox man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq dbus discord reflector cmatrix nemo ranger arandr python-pip --noconfirm
+pacman -S \
+    neovim git alacritty firefox man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev \
+    xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq \
+    dbus discord reflector cmatrix nemo ranger arandr python-pip cmatrix \
+    --noconfirm
 
 pip install psutil
 
@@ -49,3 +53,17 @@ run_as_user "rm -rf ../dotfiles"
 # vimplug
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+
+# yay
+cd /opt
+git clone https://aur.archlinux.org/yay.git
+cd yay
+chown -R $target_user:users .
+run_as_user "makepkg -si --noconfirm"
+
+# brave
+run_as_user "yay -S brave-bin brave-beta-bin brave-nightly-bin --noconfirm"
+
+# timeshift 
+run_as_user "yay -S timeshift --noconfirm"
+
