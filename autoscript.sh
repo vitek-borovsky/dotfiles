@@ -24,7 +24,7 @@ usermod -aG wheel,video,audio,users,storage $target_user
 pacman -S \
     neovim git alacritty rofi man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev \
     xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq \
-    dbus discord reflector cmatrix nemo ranger arandr python-pip cmatrix \
+    dbus discord reflector cmatrix nemo ranger arandr python-pip cmatrix pavucontrol pulseaudio\
     --noconfirm
 
 pip install psutil
@@ -69,4 +69,6 @@ run_as_user "yay -S timeshift --noconfirm"
 
 
 localectl set-x11-keymap us
+
+run_as_user "systemctl enable pulseaudio.socket"
 
