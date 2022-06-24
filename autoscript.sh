@@ -25,7 +25,7 @@ pacman -S \
     neovim git alacritty rofi man qtile xorg-xinit xorg-server xf86-video-vmware xf86-video-fbdev \
     xf86-video-vesa nitrogen noto-fonts curl dpkg zsh lua tmux udiskie neofetch htop locate picom htop jq \
     dbus discord reflector cmatrix nemo ranger arandr python-pip cmatrix pavucontrol pulseaudio pass rofi-pass\
-    gimp \
+    gimp gcolor3 \
     --noconfirm
 
 pip install psutil
