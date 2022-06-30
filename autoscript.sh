@@ -28,7 +28,7 @@ pacman -S \
     gimp flameshot xorg-xinput \
     --noconfirm
 
-pip install psutil
+pip install psutil dbus-next
 
 run_as_user "mkdir ~/Pictures"
 run_as_user "mkdir ~/Videos"
