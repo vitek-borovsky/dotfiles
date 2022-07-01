@@ -28,7 +28,7 @@ pacman -S \
     gimp flameshot xorg-xinput \
     --noconfirm
 
-pip install psutil dbus-next
+pip install psutil dbus-next debugpy
 
 run_as_user "mkdir ~/Pictures"
 run_as_user "mkdir ~/Videos"
