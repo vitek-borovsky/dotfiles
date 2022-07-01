@@ -1,0 +1,730 @@
+{
+   "checksum": "8d119e490690086e7fa66537878852f5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13299627826000000",
+                  "guid": "99ddbf2f-0b34-41b3-8a59-3be58c3675d4",
+                  "id": "9",
+                  "name": "Qtile + Catppuccin = Awesome? - Ricing Qtile - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=V7PMxN4z82s"
+               }, {
+                  "date_added": "13299781236000000",
+                  "guid": "2a141a19-d51e-4c5a-9b42-6ae8740491d2",
+                  "id": "10",
+                  "name": "Setup Neovim like an IDE - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=65Wq4fjREUU"
+               }, {
+                  "date_added": "13299781244000000",
+                  "guid": "01a83aa4-a854-4510-b2c3-0ff8c178badb",
+                  "id": "11",
+                  "name": "Top 5 Neovim 0.5 Plugins for Developers | 2021 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=P9jB7mz2Ax4"
+               }, {
+                  "date_added": "13299781248000000",
+                  "guid": "2cfd2955-5444-4abc-8b9b-acae3531625c",
+                  "id": "12",
+                  "name": "Top 5 NeoVim Plugins to Improve Your Development Workflow - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=zum9Y35BZ_M"
+               }, {
+                  "date_added": "13300204909000000",
+                  "guid": "e852d702-c8e1-4383-aa53-45e350f58d02",
+                  "id": "13",
+                  "name": "https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg",
+                  "type": "url",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg"
+               }, {
+                  "date_added": "13300205639000000",
+                  "guid": "349d57b1-d5e8-40dc-bad3-a0e0b35b66a2",
+                  "id": "14",
+                  "name": "romkatv/powerlevel10k: A Zsh theme",
+                  "type": "url",
+                  "url": "https://github.com/romkatv/powerlevel10k"
+               }, {
+                  "date_added": "13300205759000000",
+                  "guid": "d352e53c-edcc-4e4b-8543-0455084ad87f",
+                  "id": "15",
+                  "name": "Xterm 256 colors and examples",
+                  "type": "url",
+                  "url": "https://robotmoon.com/256-colors/"
+               }, {
+                  "date_added": "13300292102000000",
+                  "guid": "dbf39f3d-f2a9-4353-86b7-5ddc732a3b2e",
+                  "id": "16",
+                  "name": "Multihead - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/title/Multihead"
+               } ],
+               "date_added": "13300578186860597",
+               "date_modified": "0",
+               "guid": "2c1ab81c-7777-46dd-a112-69549c431873",
+               "id": "8",
+               "name": "qtile",
+               "type": "folder"
+            }, {
+               "date_added": "13283012734000000",
+               "guid": "0232fe03-eb80-4b1f-b972-e7d0b0331a33",
+               "id": "17",
+               "name": "OverAPI.com | Collecting all the cheat sheets",
+               "type": "url",
+               "url": "https://overapi.com/"
+            }, {
+               "date_added": "13283171215000000",
+               "guid": "3d80c554-77f3-42d0-8dbe-69f219e79702",
+               "id": "18",
+               "name": "CodeNewbie",
+               "type": "url",
+               "url": "https://www.codenewbie.org/podcast/meteor"
+            }, {
+               "date_added": "13298846228000000",
+               "guid": "d67b977e-b8ab-4890-bdd1-697772916a8e",
+               "id": "19",
+               "name": "How to Become a Good Backend Engineer (Fundamentals) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=V3ZPPPKEipA"
+            }, {
+               "date_added": "13298846778000000",
+               "guid": "f52f7d14-845a-4a54-a5d8-2ba4ad3b87a4",
+               "id": "20",
+               "name": "Backend Developer Roadmap: Learn to become a modern backend developer",
+               "type": "url",
+               "url": "https://roadmap.sh/backend"
+            }, {
+               "date_added": "13298846140000000",
+               "guid": "b59e064d-59a8-4f6e-96ae-4ec918532bef",
+               "id": "21",
+               "name": "2022 Backend Developer Roadmap | Begin your journey as a backend developer. - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Q0prVO3DCtU"
+            }, {
+               "date_added": "13298887989000000",
+               "guid": "cc1deeda-e24d-4626-8c52-ab64fefa99e1",
+               "id": "22",
+               "name": "GitHub - karan/Projects: A list of practical projects that anyone can solve in any programming language.",
+               "type": "url",
+               "url": "https://github.com/karan/Projects"
+            }, {
+               "date_added": "13299081639000000",
+               "guid": "f2dfd9b9-e082-449b-b4e5-77ad6364a832",
+               "id": "23",
+               "name": "Netlify: Develop & deploy the best web experiences in record time",
+               "type": "url",
+               "url": "https://www.netlify.com/"
+            }, {
+               "date_added": "13299155310000000",
+               "guid": "740d9ed7-198b-4a5e-9398-ec2f401c238f",
+               "id": "24",
+               "name": "i3: i3 User’s Guide",
+               "type": "url",
+               "url": "https://i3wm.org/docs/userguide.html#_default_keybindings"
+            }, {
+               "date_added": "13299155838000000",
+               "guid": "6b45b27d-bb47-4686-b243-615c9bfbc104",
+               "id": "25",
+               "name": "Vim As Your Editor (2/6): Foundation for Speed - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gSHf_b6AWKc"
+            }, {
+               "date_added": "13299166602000000",
+               "guid": "f994856c-9aea-4edb-b874-a7476cb0419d",
+               "id": "27",
+               "name": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=3c-iBn73dDE"
+            }, {
+               "date_added": "13299167757000000",
+               "guid": "6c61c0ca-2e7f-4531-9f67-38bb913f23a3",
+               "id": "28",
+               "name": "ThePrimeagen/.dotfiles",
+               "type": "url",
+               "url": "https://github.com/ThePrimeagen/.dotfiles"
+            }, {
+               "date_added": "13299182855000000",
+               "guid": "56771949-be9b-497e-9447-aa447823071a",
+               "id": "29",
+               "name": "Bakalářské studium od akad. roku 2019/20 | Matematicko-fyzikální fakulta",
+               "type": "url",
+               "url": "https://www.mff.cuni.cz/cs/studenti/bc-a-mgr-studium/studijni-plany/2021-2022/informatika/bc"
+            }, {
+               "date_added": "13299188818000000",
+               "guid": "985d0e9e-8723-48aa-a8e7-2bf9ef2ea9cc",
+               "id": "30",
+               "name": "Getting Started with tmux Part 1 - Overview and Features - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gmjyMxezIWU&list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe"
+            }, {
+               "date_added": "13299268583000000",
+               "guid": "3cf602f9-5059-4c4a-8ddf-0110ef0cc69a",
+               "id": "31",
+               "name": "Usage · coldfix/udiskie Wiki",
+               "type": "url",
+               "url": "https://github.com/coldfix/udiskie/wiki/Usage"
+            }, {
+               "date_added": "13299332019000000",
+               "guid": "e3889952-69f6-4322-9eff-402f24a581d8",
+               "id": "33",
+               "name": "How to Create a .Desktop File For Your Application in Linux - Make Tech Easier",
+               "type": "url",
+               "url": "https://www.maketecheasier.com/create-desktop-file-linux/"
+            }, {
+               "date_added": "13299332022000000",
+               "guid": "ff4dff3c-4023-44a4-843f-07511486e5b1",
+               "id": "34",
+               "name": "How to automatically run a script when logging into Ubuntu Desktop",
+               "type": "url",
+               "url": "https://www.xmodulo.com/how-to-automatically-run-script-when-logging-into-ubuntu-desktop.html"
+            }, {
+               "date_added": "13299340883000000",
+               "guid": "7535c157-6895-425e-8015-f4c2f3be9636",
+               "id": "35",
+               "name": "Arch Linux Installation Guide 2020 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=PQgyW10xD8s"
+            }, {
+               "date_added": "13299343771000000",
+               "guid": "45746238-91e1-4e0f-b5ee-3c7eac9053df",
+               "id": "36",
+               "name": "Some bashrc recommendations and what I use - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_UrDsbs0-OE"
+            }, {
+               "date_added": "13299360375000000",
+               "guid": "ea87feee-0032-4f33-a650-28da09b7becf",
+               "id": "38",
+               "name": "Arch Linux: My Basic Maintenance - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=wwSkFi3h2nI"
+            }, {
+               "date_added": "13299360673000000",
+               "guid": "cead9767-86b3-44c6-92a9-cd12b2d40283",
+               "id": "39",
+               "name": "Arch Maintenance For Beginners - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BO238FBoxes"
+            }, {
+               "date_added": "13299423952000000",
+               "guid": "731c753e-939c-4c1e-8084-7180bd2e4d5b",
+               "id": "40",
+               "name": "Vim can do this? | Tech Tip 1 #shorts #programming - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=kkcHypEr5y8"
+            }, {
+               "date_added": "13299700988000000",
+               "guid": "61b60172-dd89-4ab8-acda-0db4bef4ae7c",
+               "id": "42",
+               "name": ".config/qtile/config.py · master · Derek Taylor / Dotfiles · GitLab",
+               "type": "url",
+               "url": "https://gitlab.com/dwt1/dotfiles/-/blob/master/.config/qtile/config.py"
+            }, {
+               "date_added": "13299700994000000",
+               "guid": "2ec9ada3-9180-4de4-a8b0-ac22152b6eb9",
+               "id": "43",
+               "name": "Screens — Qtile 0.21.1.dev0+gb4577ac.d20220323 documentation",
+               "type": "url",
+               "url": "http://docs.qtile.org/en/stable/manual/config/screens.html?highlight=bar#bar"
+            }, {
+               "date_added": "13299764276000000",
+               "guid": "eb0aa16c-98c7-4021-b5e3-869c0daf77f0",
+               "id": "44",
+               "name": ".config/qtile · master · Derek Taylor / Dotfiles · GitLab",
+               "type": "url",
+               "url": "https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/qtile"
+            } ],
+            "date_added": "13300578186860327",
+            "date_modified": "0",
+            "guid": "3814a5f5-5a1f-4f08-be89-e869c7376c75",
+            "id": "7",
+            "name": "prog",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13293380771000000",
+               "guid": "379ba724-8f61-4434-9c2d-e3a3663318f2",
+               "id": "47",
+               "name": "Coopex & Yohan Gerber - Radioactive (ft. LUNIS) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=B1vuL9eLURQ&list=PLy6N_9yB8Qwy6LL0J7zLUyW8XNX-BPeDl&index=12"
+            }, {
+               "date_added": "13293380777000000",
+               "guid": "616d3733-60e8-45d7-9d3a-499db5e70cd3",
+               "id": "48",
+               "name": "Besomorph & RIELL - Survivor - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=wnoX79Mj3_M&list=PLy6N_9yB8Qwy6LL0J7zLUyW8XNX-BPeDl&index=22"
+            }, {
+               "date_added": "13293380778000000",
+               "guid": "9853cd9c-af31-4719-802e-c5e9eb7890bb",
+               "id": "49",
+               "name": "Besomorph, MORFI & RushLow - All Day All Night (ft. Nita-Onna) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=UPDZZHn0V3U&list=PLy6N_9yB8Qwy6LL0J7zLUyW8XNX-BPeDl&index=36"
+            }, {
+               "date_added": "13293477891000000",
+               "guid": "075aaae3-bb75-4b35-a750-55e561374795",
+               "id": "50",
+               "name": "Nightcore - Hot N'Cold [Katy Perry] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8VqqOdVNWCE"
+            }, {
+               "date_added": "13293571770000000",
+               "guid": "25d510fa-6fae-4ef5-9a0e-ec6040786998",
+               "id": "51",
+               "name": "😳Halo Announcer's Full Cameo \"Social Credit Deducted\"😳 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/shorts/IP5G_27OiVM"
+            }, {
+               "date_added": "13293836106000000",
+               "guid": "4dc73e1c-bb6d-4fbd-931d-226abca46a32",
+               "id": "52",
+               "name": "Nonstop Disco Hits 70 80 90 Greatest Hits - Best Eurodance Megamix - Nonstop Disco Music Songs Hits - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8yMS54s6t0w&t=1588s"
+            }, {
+               "date_added": "13293900021000000",
+               "guid": "11914098-ad51-4afe-84cf-7df224088f3d",
+               "id": "53",
+               "name": "Imagine Dragons - Radioactive (Crypehead Remix) [Hardstyle] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KgDMfg8gfdM"
+            }, {
+               "date_added": "13293976024000000",
+               "guid": "84bff49a-3d3e-4713-a91c-ab05fe0ca8a2",
+               "id": "54",
+               "name": "Besomorph & RIELL - All I Know - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BZw0xeu9wzw&list=PLy6N_9yB8Qwy6LL0J7zLUyW8XNX-BPeDl&index=38"
+            }, {
+               "date_added": "13294083032000000",
+               "guid": "6ad315f7-dfba-4f00-91b3-d9a76a783695",
+               "id": "55",
+               "name": "Top 50 Most Popular Songs by NCS | No Copyright Sounds - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1D5cxbDbKMc"
+            }, {
+               "date_added": "13294350126000000",
+               "guid": "1308b097-48b9-4733-b0e2-0a4250a54633",
+               "id": "56",
+               "name": "Nightcore - Please don't stop the music - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=oeNvhhjtUqo"
+            }, {
+               "date_added": "13294350484000000",
+               "guid": "888d4086-9ce2-43f6-bd83-0a2afd282a7e",
+               "id": "57",
+               "name": "Nightcore - My Demons - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=JdZ3ZuP8-eM&list=PL_2-M0cHcLO4PYOoiyq0PxOeHqGlhlnmQ&index=3"
+            }, {
+               "date_added": "13294351223000000",
+               "guid": "7d51d6eb-cff8-4a65-af6b-5015e9f75db3",
+               "id": "58",
+               "name": "nightcore playlist - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cvaIgq5j2Q8&list=PL5qXa9xbuolOlZAMvPQBL6i5CnxR8ctvm"
+            }, {
+               "date_added": "13294861903000000",
+               "guid": "ba996772-2cd7-448a-af4b-649ff97dcffd",
+               "id": "59",
+               "name": "Billie Eilish - Bad Guy (Broken Minds Frenchcore Edit) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=zLrYFksELlw&list=PL_2GIoOzStjy0gcaAyHWKOfZ051cJ05Db&index=4"
+            }, {
+               "date_added": "13294957204000000",
+               "guid": "1c12dd67-e8ef-41ba-a74f-ae4011e4d130",
+               "id": "60",
+               "name": "Nightcore - Take A Hint - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cyW2ajAVyfA&list=RDcyW2ajAVyfA&start_radio=1"
+            }, {
+               "date_added": "13294957364000000",
+               "guid": "22f930a6-eb28-4121-8350-3587b4863f6a",
+               "id": "61",
+               "name": "Nightcore - Centuries - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=mgz1wdlkzcs&list=RDcyW2ajAVyfA&index=2"
+            }, {
+               "date_added": "13295032665000000",
+               "guid": "6bdcc166-f862-40fd-9bad-3aef297fc008",
+               "id": "62",
+               "name": "Nightcore - Remember When - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2yhhK_2HZzQ&list=PLxzcN0gjrbz7DVZ33MFnzJiJTXWU3juJH&index=14"
+            }, {
+               "date_added": "13295032730000000",
+               "guid": "1717ec2c-deaa-4241-8388-3f68822c70ba",
+               "id": "63",
+               "name": "Nightcore- We Are Never Ever Getting Back Together - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=zqIEMuflocw&list=PLxzcN0gjrbz7DVZ33MFnzJiJTXWU3juJH&index=15"
+            }, {
+               "date_added": "13295217951000000",
+               "guid": "41be423c-e843-41d7-8520-25f784bacf55",
+               "id": "64",
+               "name": "Nightcore - God Is A Girl - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=TiVIFMbwxOc&list=RD2yhhK_2HZzQ&index=6"
+            }, {
+               "date_added": "13295280358000000",
+               "guid": "c17ef538-7b08-4a66-9595-9ebe0e0d9451",
+               "id": "65",
+               "name": "Nightcore - Angel With A Shotgun - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cvaIgq5j2Q8&list=RD2yhhK_2HZzQ&index=4"
+            }, {
+               "date_added": "13295283557000000",
+               "guid": "348e4e42-09a6-46f9-964a-b3479447844d",
+               "id": "66",
+               "name": "Avril Lavigne - Girlfriend - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Bg59q4puhmg&list=RD2yhhK_2HZzQ&index=20"
+            }, {
+               "date_added": "13295367294000000",
+               "guid": "de7ed5f6-741a-432c-8700-b515c8d0ab9e",
+               "id": "67",
+               "name": "Nightcore - Try - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=x9WpVoAC3tk&list=RDx9WpVoAC3tk&start_radio=1"
+            }, {
+               "date_added": "13295367628000000",
+               "guid": "4b6b0932-dfaf-4b16-8288-cc204239a5a1",
+               "id": "68",
+               "name": "Nightcore - Die Young - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=6kPHNW8kdcs&list=RDx9WpVoAC3tk&index=3"
+            }, {
+               "date_added": "13295368702000000",
+               "guid": "2440c7d3-8e50-4067-849d-7387974a6513",
+               "id": "69",
+               "name": "Nightcore - Day after day - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=flbz8iM2bEU&list=RDx9WpVoAC3tk&index=7"
+            }, {
+               "date_added": "13295369273000000",
+               "guid": "a12e8df2-e75e-41c5-8169-c7f87e889cf8",
+               "id": "70",
+               "name": "Nightcore - Truth or Dare - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YaufeJA0HQA&list=RDx9WpVoAC3tk&index=10"
+            }, {
+               "date_added": "13295369699000000",
+               "guid": "8f5ee4c0-b3f8-416d-8f4d-85d88d260fcf",
+               "id": "71",
+               "name": "Nightcore - I'm Not Here For Your Entertainment - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=h7Nv1Jy1d0Y&list=RDx9WpVoAC3tk&index=12"
+            }, {
+               "date_added": "13295386104000000",
+               "guid": "40700ea2-a920-47fc-a503-98f211ad0792",
+               "id": "72",
+               "name": "Nightcore - Try - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=x9WpVoAC3tk&list=RDMMx9WpVoAC3tk&start_radio=1"
+            }, {
+               "date_added": "13295446493000000",
+               "guid": "41e75d89-011d-4930-9af6-3525eccf8e31",
+               "id": "73",
+               "name": "Nightcore - Rasputin [Boney M.] (REUPLOAD) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=TQ6yYUVlgCA"
+            }, {
+               "date_added": "13295446736000000",
+               "guid": "1443f427-1e62-4273-8e8f-fc04f847344e",
+               "id": "74",
+               "name": "Nightcore - Angel With A Shotgun - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cvaIgq5j2Q8"
+            }, {
+               "date_added": "13295477931000000",
+               "guid": "b50d9153-04b4-4761-a782-957431f4fd65",
+               "id": "75",
+               "name": "Nightcore - Rewrite The Stars (switching vocals) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=pcLZdYEAAzM&list=RDx9WpVoAC3tk&index=2"
+            }, {
+               "date_added": "13295621057000000",
+               "guid": "a4f2dcee-2362-4fa8-b00f-774f34ddd052",
+               "id": "76",
+               "name": "Extreme Rage & Frankentek - Buckle Up - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=GvCR7DV_xgU"
+            }, {
+               "date_added": "13295885145000000",
+               "guid": "447df698-02d6-45dd-846e-6516acdac2dc",
+               "id": "77",
+               "name": "(2) Nightcore - Girlfriend - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=0R_JE_2PQeI"
+            }, {
+               "date_added": "13295886114000000",
+               "guid": "01c349fa-2c36-41c8-8562-dc4e695f5241",
+               "id": "78",
+               "name": "(2) Avril Lavigne - Complicated (Official Video) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=5NPBIwQyPWE"
+            }, {
+               "date_added": "13296486678000000",
+               "guid": "16a1c7f6-ee2b-4799-bbe8-61c30ef9d0a9",
+               "id": "79",
+               "name": "Everytime We Touch【Nightcore X Boosted】 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8SI7e0G74KU"
+            }, {
+               "date_added": "13299937344000000",
+               "guid": "1cc1421f-a592-4178-9b32-866cf3147369",
+               "id": "80",
+               "name": "Best Nightcore Songs Mix 2021 ♫ Nightcore 1 Hour Mix ♫ Nightcore Gaming Mix 2021 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=5OeSk8-uwcU"
+            }, {
+               "date_added": "13299970544000000",
+               "guid": "1d506f10-63c4-4dcc-a623-6089183c9800",
+               "id": "81",
+               "name": "Nightcore - Thunder (Gabry Ponte, LUM!X, Prezioso) - (Lyrics) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KjtdnQR1V4I&list=RDMM8VqqOdVNWCE&index=3"
+            }, {
+               "date_added": "13300209897000000",
+               "guid": "569e9984-fd1c-4587-b601-09765b523c5f",
+               "id": "82",
+               "name": "Nightcore - Bad boy - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cmlCuzn_mqI&list=RDMM8VqqOdVNWCE"
+            } ],
+            "date_added": "13300578186861211",
+            "date_modified": "0",
+            "guid": "14c23f4a-42dd-4baa-95f4-3874c4b4d05d",
+            "id": "45",
+            "name": "mus",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13300135139000000",
+               "guid": "8a353629-0e86-41f0-a2b9-e3254103c1ae",
+               "id": "84",
+               "name": "Pre-built Keyboards – Keebio",
+               "type": "url",
+               "url": "https://keeb.io/collections/pre-built-keyboards"
+            }, {
+               "date_added": "13300131966000000",
+               "guid": "d23dfc40-83fb-4c9e-934a-adbe46e51499",
+               "id": "86",
+               "name": "ZSA Moonlander: Next-gen Ergonomics | zsa.io | Store",
+               "type": "url",
+               "url": "https://www.zsa.io/moonlander/"
+            }, {
+               "date_added": "13300125326000000",
+               "guid": "6bcd6c08-0a8f-4e93-b70e-94c00c20d2ba",
+               "id": "87",
+               "name": "Klávesnice | DATART",
+               "type": "url",
+               "url": "https://www.datart.cz/klavesnice/filter/c:4127:5899"
+            }, {
+               "date_added": "13299280030000000",
+               "guid": "71a0648b-3d4e-46e2-98b9-92b9aaed0d20",
+               "id": "88",
+               "name": "Monkeytype",
+               "type": "url",
+               "url": "https://monkeytype.com/"
+            }, {
+               "date_added": "13300142344000000",
+               "guid": "e1ae2438-2ff1-4113-b007-649297655e6f",
+               "id": "89",
+               "name": "Rhymestone 40% Split Keyboard Kit – KEEBD",
+               "type": "url",
+               "url": "https://keebd.com/en-us/products/rhymestone-40-split-keyboard-kit?variant=41663963529368"
+            }, {
+               "date_added": "13300144030000000",
+               "guid": "88bfc5e8-7e6a-45c0-af3c-e7d3af5e6f11",
+               "id": "90",
+               "name": "Levinson Keyboard - 40% Split Ortholinear (Let's Split) - PCB Kit – Keebio",
+               "type": "url",
+               "url": "https://keeb.io/products/levinson-lets-split-w-led-backlight"
+            }, {
+               "date_added": "13300145899000000",
+               "guid": "c909a271-c92d-46ba-8f9f-2357557dbf1e",
+               "id": "91",
+               "name": "Levinson Let's Split Keyboard Build | Kailh Noble Yellow Switches | XDA Caps | 3D Printed Enclosure - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2BzNDQHCyEw"
+            }, {
+               "date_added": "13300146565000000",
+               "guid": "683f977f-3d35-4294-84e3-8ae4ae1e70b1",
+               "id": "92",
+               "name": "Lily58 Pro — KeyHive",
+               "type": "url",
+               "url": "https://keyhive.xyz/shop/lily58"
+            }, {
+               "date_added": "13300186973000000",
+               "guid": "df02fe5b-e936-4c34-9d4a-b72fbc05b72d",
+               "id": "93",
+               "name": "GergoPlex – A Detailed Look At This Ultra-Minimal Mechanical Split Keyboard - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=dWfQeuXDK_o"
+            }, {
+               "date_added": "13300212115000000",
+               "guid": "77c430ef-7741-4395-9da0-a462bb29dc41",
+               "id": "94",
+               "name": "Free Shipping Fully-assembled Ferris Sweep Low Profile Split | Etsy Czech Republic",
+               "type": "url",
+               "url": "https://www.etsy.com/listing/1214871530/free-shipping-fully-assembled-ferris?ref=cart&variation0=2627421229&variation1=2627421235"
+            }, {
+               "date_added": "13300228777000000",
+               "guid": "9119ed3d-29ed-46df-b3eb-600133d860b7",
+               "id": "95",
+               "name": "Tools & Tips For Learning A New Keyboard Layout (Or How To Type Faster!) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sI-a64EVPPU"
+            }, {
+               "date_added": "13300228786000000",
+               "guid": "1697380a-5809-410d-b78d-33d9c445769e",
+               "id": "96",
+               "name": "davidphilipbarr/Sweep: Sweep - a small promicro based keyboard inspired by the Ferris.",
+               "type": "url",
+               "url": "https://github.com/davidphilipbarr/Sweep"
+            }, {
+               "date_added": "13300228884000000",
+               "guid": "76add4ca-8a0e-4936-8143-3c74de828048",
+               "id": "97",
+               "name": "How to make a FERRIS KEYBOARD [ beginner friendly! ] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=fBPu7AyDtkM"
+            }, {
+               "date_added": "13300301458000000",
+               "guid": "5b1b6dc9-83b5-4317-836c-c5d6b9c5cdc3",
+               "id": "98",
+               "name": "splitkb.com - All about split keyboards.",
+               "type": "url",
+               "url": "https://splitkb.com/"
+            }, {
+               "date_added": "13300357934000000",
+               "guid": "9bd32ea5-ffd6-4e72-bf13-d6311f70c708",
+               "id": "99",
+               "name": "Vyměnitelné spínače | CZC.cz",
+               "type": "url",
+               "url": "https://www.czc.cz/klavesnice-vymenitelne-spinace/produkty"
+            }, {
+               "date_added": "13300359058000000",
+               "guid": "dc5ed921-5db4-49ae-bac3-12819b3d6b66",
+               "id": "101",
+               "name": "Ceníky | PragoBoard s.r.o. - vícevrstvé, dvou a jednovrstvé plošné spoje",
+               "type": "url",
+               "url": "https://www.pcb.cz/ceniky"
+            }, {
+               "date_added": "13300359194000000",
+               "guid": "4cbbae1e-0848-4b43-b109-066222e7a42b",
+               "id": "102",
+               "name": "cherrymx",
+               "type": "url",
+               "url": "https://www.alza.cz/mechanicke-spinace/18888556.htm"
+            }, {
+               "date_added": "13300359239000000",
+               "guid": "ea7a6f2f-ab2f-4d36-b7c9-20316dadc18d",
+               "id": "103",
+               "name": "Keychron Cherry MX Switch Set 35pcs/Set BLUE RGB - Mechanické spínače | Alza.cz",
+               "type": "url",
+               "url": "https://www.alza.cz/keychron-cherry-mx-switch-set-35pcs-set-blue-rgb-d6587570.htm"
+            }, {
+               "date_added": "13300372199000000",
+               "guid": "e2942ae6-6d69-473c-a5ea-a95134c6433b",
+               "id": "104",
+               "name": "AZDelivery 3 x ESP32-DevKitC NodeMCU WiFi WLAN CP2102 ESP32-WROOM-32D IoT 2-In-1 Microcontroller Bluetooth Module Development Board compatible with Arduino including E-Book! : Amazon.co.uk: Electronics & Photo",
+               "type": "url",
+               "url": "https://www.amazon.co.uk/AZDelivery-NodeMcu-CP2102-Development-including/dp/B074RGW2VQ/ref=sr_1_7?keywords=elite-c%2Bv4%2Bmicrocontroller&qid=1655898470&sprefix=elite-c%2B%2Caps%2C80&sr=8-7&th=1"
+            } ],
+            "date_added": "13300578186861949",
+            "date_modified": "0",
+            "guid": "3990f429-76e7-45fb-b4da-ef3e38edf4b8",
+            "id": "83",
+            "name": "keybard",
+            "type": "folder"
+         }, {
+            "date_added": "13300640934928382",
+            "guid": "ba2d7d3a-3ad0-4388-96d0-b55a3a14752a",
+            "id": "107",
+            "name": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+            "type": "url",
+            "url": "https://www.nerdfonts.com/cheat-sheet"
+         }, {
+            "date_added": "13300640947953763",
+            "guid": "4ffeb756-2c9f-40e6-a7df-8004e8cdf49d",
+            "id": "109",
+            "name": "Do qtile have move specific window to specific workspace? · Discussion #2319 · qtile/qtile",
+            "type": "url",
+            "url": "https://github.com/qtile/qtile/discussions/2319"
+         }, {
+            "date_added": "13300662263049746",
+            "guid": "eefa9184-c3a4-433b-8a72-69aa0cc7bf4a",
+            "id": "111",
+            "name": "Překladač Google",
+            "type": "url",
+            "url": "https://translate.google.com/?sl=en&tl=cs&op=translate"
+         }, {
+            "date_added": "13300826716713054",
+            "guid": "24ec6340-095e-4972-a110-880986de3ec1",
+            "id": "117",
+            "name": "Neovim - LSP Setup Tutorial (Built in LSP 100% Lua) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=6F3ONwrCxMg"
+         }, {
+            "date_added": "13300893550901143",
+            "guid": "c46dd030-3032-4ded-a2eb-1c413f899781",
+            "id": "121",
+            "name": "cmus | Search & Deploy",
+            "type": "url",
+            "url": "https://search-and-deploy.gitlab.io/cheat-sheets/cmus/"
+         }, {
+            "date_added": "13300907854048277",
+            "guid": "a4e3fc74-cfb0-407f-bf1a-b32e5ceb7eaa",
+            "id": "124",
+            "name": "Telescope and Nvim 0.5 Intro (ft. bash_bunni) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=guxLXcG1kzQ&list=PLep05UYkc6wTWlugE_9Lj6JlLpvSBbkZ_&index=1"
+         }, {
+            "date_added": "13300916363316913",
+            "guid": "12882948-ff5e-481d-8a29-246db1077779",
+            "id": "125",
+            "name": "ThePrimeagen (ThePrimeagen)",
+            "type": "url",
+            "url": "https://github.com/ThePrimeagen/.dotfiles"
+         }, {
+            "date_added": "13300979773246362",
+            "guid": "b9c7e464-e541-4d8d-9e7a-16e74e5d3717",
+            "id": "127",
+            "name": "Debugging In Neovim (ft BashBunni) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=0moS8UHupGc&list=PLep05UYkc6wTWlugE_9Lj6JlLpvSBbkZ_&index=4"
+         } ],
+         "date_added": "13300536574223872",
+         "date_modified": "13300979773246362",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13300536574223873",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13300536574223874",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

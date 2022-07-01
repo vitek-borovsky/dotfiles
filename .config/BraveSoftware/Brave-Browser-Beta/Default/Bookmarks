@@ -1,0 +1,47 @@
+{
+   "checksum": "49dab423dce49baca1a2939afe198612",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13300660826092613",
+            "guid": "9f295c13-1958-4c65-bcd2-6519ef61095a",
+            "id": "5",
+            "name": "Nightcore - Pokerface - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=WKIYQxLjKIQ"
+         }, {
+            "date_added": "13300660830105900",
+            "guid": "05187d91-fc17-49ac-ac64-e2238484056d",
+            "id": "6",
+            "name": "Nightcore - Sweet But Psycho - Ava Max - (Lyrics) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Cvcn-P2KJd0"
+         } ],
+         "date_added": "13300660806846102",
+         "date_modified": "13300660830105900",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13300660806846104",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13300660806846104",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,6 @@
+2022/06/25-17:05:42.023 5f86 Creating DB /home/vitek/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ww5.0123movie.net_0.indexeddb.leveldb since it was missing.
+2022/06/25-17:05:42.027 5f86 Reusing MANIFEST /home/vitek/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ww5.0123movie.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/25-19:31:44.981 639c Level-0 table #5: started
+2022/06/25-19:31:44.982 639c Level-0 table #5: 844 bytes OK
+2022/06/25-19:31:44.984 639c Delete type=0 #3
+2022/06/25-19:31:44.984 639c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

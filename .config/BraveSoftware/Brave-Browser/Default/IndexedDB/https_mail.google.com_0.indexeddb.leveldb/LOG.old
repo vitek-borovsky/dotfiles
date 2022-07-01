@@ -1,0 +1,9 @@
+2022/07/01-11:29:51.193 88a Reusing MANIFEST /home/vitek/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/01-11:29:51.193 88a Recovering log #14
+2022/07/01-11:29:51.193 88a Reusing old log /home/vitek/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000014.log 
+2022/07/01-11:29:53.847 88b Compacting 1@1 + 1@2 files
+2022/07/01-11:29:53.853 88b Generated table #17@1: 78 keys, 64608 bytes
+2022/07/01-11:29:53.853 88b Compacted 1@1 + 1@2 files => 64608 bytes
+2022/07/01-11:29:53.855 88b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/01-11:29:53.855 88b Delete type=2 #15
+2022/07/01-11:29:53.855 88b Delete type=2 #12

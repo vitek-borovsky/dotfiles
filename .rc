@@ -5,9 +5,11 @@ alias nv="nvim"
 alias spac="sudo pacman"
 
 alias mkd="mkdir -p"
+alias du="du -sh"
+alias slg="pkill -u vitek"
 
 # to inclue pip command in .local/bin/
 export PATH=/home/$USER/.local/bin:$PATH
 
-LC_ALL="C"
+LC_ALL="en_US.UTF-8"
 export LC_ALL

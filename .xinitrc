@@ -8,5 +8,8 @@ export LIBGL_ALWAYS_SOFTWARE=1
 
 exec udiskie -f "" &
 
+# undo league brikule
+cp ~/.config/qtile/config.py.bak ~/.config/qtile/config.py
+
 exec qtile start
 

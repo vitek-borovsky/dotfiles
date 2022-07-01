@@ -1,0 +1,5 @@
+[Default Applications]
+image/jpeg=brave-browser-nightly.desktop
+
+[Added Associations]
+image/jpeg=mupdf.desktop;brave-browser-nightly.desktop;

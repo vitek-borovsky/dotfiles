@@ -1,0 +1,11 @@
+# GIMP action-history
+
+(history-item "file-export-as" 1)
+(history-item "file-quit" 1)
+(history-item "file-open" 1)
+(history-item "image-new" 0)
+(history-item "layers-delete" 0)
+(history-item "layers-new" 0)
+(history-item "file-save-as" 2)
+
+# end of action-history

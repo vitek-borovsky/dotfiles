@@ -1,0 +1,21 @@
+2022/07/01-16:18:47.700 1bf0 Reusing MANIFEST /home/vitek/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/01-16:18:47.700 1bf0 Recovering log #400
+2022/07/01-16:18:47.701 1bf0 Reusing old log /home/vitek/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000400.log 
+2022/07/01-16:20:01.168 1bf2 Level-0 table #405: started
+2022/07/01-16:20:01.184 1bf2 Level-0 table #405: 930002 bytes OK
+2022/07/01-16:20:01.187 1bf2 Delete type=0 #400
+2022/07/01-16:20:48.561 1bf2 Compacting 1@1 + 1@2 files
+2022/07/01-16:20:48.565 1bf2 Generated table #406@1: 335 keys, 38166 bytes
+2022/07/01-16:20:48.565 1bf2 Compacted 1@1 + 1@2 files => 38166 bytes
+2022/07/01-16:20:48.567 1bf2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/01-16:20:48.567 1bf2 Delete type=2 #405
+2022/07/01-16:20:48.567 1bf2 Delete type=2 #402
+2022/07/01-17:10:10.225 222f Level-0 table #408: started
+2022/07/01-17:10:10.257 222f Level-0 table #408: 1133716 bytes OK
+2022/07/01-17:10:10.260 222f Delete type=0 #404
+2022/07/01-17:11:41.477 22df Compacting 1@1 + 1@2 files
+2022/07/01-17:11:41.485 22df Generated table #409@1: 372 keys, 41317 bytes
+2022/07/01-17:11:41.485 22df Compacted 1@1 + 1@2 files => 41317 bytes
+2022/07/01-17:11:41.488 22df compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/01-17:11:41.488 22df Delete type=2 #408
+2022/07/01-17:11:41.488 22df Delete type=2 #406

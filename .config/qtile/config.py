@@ -6,14 +6,18 @@ from libqtile.lazy import lazy
 import os
 import subprocess
 from libqtile import hook
-# widgets CPU MEMORY DISKUSAGE
-import psutil
 
 
 mod = "mod1"
 terminal = "alacritty"
+browser = "brave"
+file_manager = "nemo"
 
 keys = [
+    Key([mod], "period", lazy.next_screen(), desc="move to next screen"),
+    Key([mod], "b", lazy.spawn(browser), desc="spawn browser"),
+    Key([mod], "n", lazy.spawn(file_manager), desc="spawn file manager"),
+    Key([mod], "p", lazy.spawn("rofi-pass"), desc="rofi-password"),
     # A list of available commands that can be bound to keys can be found
     # at https://docs.qtile.org/en/latest/manual/config/lazy.html
     # Switch between windows
@@ -54,8 +58,20 @@ keys = [
     Key([mod], "d", lazy.spawn("rofi -show run"), desc="Spawn a command using a prompt widget"),
 ]
 
-groups = [Group(i) for i in "123456789"]
-
+groups = [
+    Group("1", label=""),
+    Group("2", label=""),
+    Group("3", label=""),
+    Group("4", label=""),
+    Group("5", label=""),
+    Group("6", label=""),
+    Group("7", label=""),
+    Group("8", label="8"),
+    Group("9", label="9"),
+    Group("0", label="")
+]
+#        
+# 
 for i in groups:
     keys.extend(
         [
@@ -103,42 +119,50 @@ widget_defaults = dict(
 )
 extension_defaults = widget_defaults.copy()
 
+widget_colors = [
+    "#8b0023",
+    "#ae0000"
+    ]
+
+widget_arrows = [
+    widget.Image(background=widget_colors[1], margin=0, filename=f"/home/vitek/Pictures/arrow_{widget_colors[0][1:]}.png"),
+    widget.Image(background=widget_colors[0], margin=0, filename=f"/home/vitek/Pictures/arrow_{widget_colors[1][1:]}.png")
+    ]
+
+end_arrow = widget.Image(margin=0, filename=f"/home/vitek/Pictures/arrow_{widget_colors[1][1:]}.png")
+
 screens = [
     Screen(
         top=bar.Bar(
             [
                 # widget.CurrentLayout(),
-                widget.GroupBox(),
-                # widget.Prompt(), # I switched to rofi
+                widget.GroupBox(fontsize=24),
                 widget.WindowName(),
-                # widget.Chord( # ?
-                #     chords_colors={
-                #         "launch": ("#ff0000", "#ffffff"),
-                #     },
-                #     name_transform=lambda name: name.upper(),
-                # ),
                 # widget.Battery(),
                 # widget.Bluetooth(),
-                widget.CPU(),
+                end_arrow,
+                widget.CPU(background=widget_colors[1]),
                 # widget.Canto(), # RSS feeds
                 # widget.Cmus(), # current playing song
                 # widget.Moc(),  # same thing
                 # widget.CurrentLayoutIcon(),
-                widget.DF(), # disk free
+                widget_arrows[0],
+                widget.DF(visible_on_warn=False, background=widget_colors[0]), # disk free
                 # widget.GmailChecker(), # TODO
-                widget.Memory(),
-                widget.Net(),
-                widget.Pomodoro(prefix_inactive='P'),
+                widget_arrows[1],
+                widget.Memory(background=widget_colors[1]),
+                widget_arrows[0],
+                widget.Net(background=widget_colors[0], format="{down} ↓↑ {up}"),
+                widget_arrows[1],
+                widget.Pomodoro(prefix_inactive='P', background=widget_colors[1]),
                 # widget.Sep(), separator
                 # widget.Spacer(),
                 # widget.WidgetBox(), # box that will show inside widget when clicked on
-                # Wlan(), # WIFI widget
-                widget.CheckUpdates(),
-                widget.Image(backgroud="#ff0000", margin=0, filename="/home/vitek/arrow-poop.png"),
-                # widget.TextBox("Press &lt;M-r&gt; to spawn", foreground="#ff0000", background="#00ff00", padding=100),
-                widget.Systray(), # ?
-                widget.QuickExit(),
-                widget.Clock(format="%H:%M", padding=8),
+                # widget.Wlan(), # WIFI widget,
+                # widget.CheckUpdates(), #TODO
+                widget_arrows[0],
+                widget.Systray(background=widget_colors[0]), # ?
+                widget.Clock(format="%H:%M", padding=8, background=widget_colors[0])
             ],
             size=24,
             # border_width=[2, 2, 2, 2],  # Draw top and bottom borders
@@ -148,6 +172,7 @@ screens = [
             opacity = 0.9,
         ),
     ),
+    Screen(),
 ]
 
 # Drag floating layouts.
