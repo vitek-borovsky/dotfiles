@@ -49,10 +49,6 @@ run_as_user "cp -rf nerd-fonts/* ~/.fonts/"
 run_as_user "cp -rf powerline-fonts/* ~/.fonts/"
 run_as_user "cp -rf .config ~/.config"
 
-# vimplug
-sh -c 'curl -fLo "${/home/$target_user.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
-       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
-
 # yay
 cd /opt
 git clone https://aur.archlinux.org/yay.git
