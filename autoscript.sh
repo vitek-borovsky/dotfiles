@@ -63,7 +63,7 @@ run_as_user "yay -S brave-bin brave-beta-bin brave-nightly-bin --noconfirm"
 
 localectl set-x11-keymap us
 
-systemctl enable pulseaudio.socket
+#systemctl enable pulseaudio.socket
 
 run_as_user "rm -rf ../dotfiles"
 
