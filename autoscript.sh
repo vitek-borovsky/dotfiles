@@ -34,6 +34,7 @@ run_as_user "mkdir ~/Pictures"
 run_as_user "mkdir ~/Videos"
 run_as_user "mkdir ~/Music"
 run_as_user "mkdir ~/Downloads"
+run_as_user "mkdir ~/Desktop"
 run_as_user "mkdir ~/.fonts"
 
 run_as_user "cp -f .rc ~/.rc"
