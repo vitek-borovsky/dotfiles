@@ -49,8 +49,6 @@ run_as_user "cp -rf nerd-fonts/* ~/.fonts/"
 run_as_user "cp -rf powerline-fonts/* ~/.fonts/"
 run_as_user "cp -rf .config ~/.config"
 
-run_as_user "rm -rf ../dotfiles"
-
 # vimplug
 sh -c 'curl -fLo "${/home/$target_user.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
@@ -69,4 +67,6 @@ run_as_user "yay -S brave-bin brave-beta-bin brave-nightly-bin --noconfirm"
 localectl set-x11-keymap us
 
 run_as_user "systemctl enable pulseaudio.socket"
+
+run_as_user "rm -rf ../dotfiles"
 
