@@ -65,9 +65,6 @@ run_as_user "makepkg -si --noconfirm"
 # brave
 run_as_user "yay -S brave-bin brave-beta-bin brave-nightly-bin --noconfirm"
 
-# timeshift 
-run_as_user "yay -S timeshift --noconfirm"
-
 
 localectl set-x11-keymap us
 
